@@ -1,0 +1,1 @@
+It is a new file to test whether I successfully commit changes.
